@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-room-full-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Empty Room Full Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-room-full-heart/) |
+| **Get License** | [Secure Licensing Rights for Empty Room Full Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-room-full-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing slow across the hardwood floor
+> I don't need to be anywhere else anymore
+> Just the quiet rhythm of your breathing near
+> Everything I ever wanted is right here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
