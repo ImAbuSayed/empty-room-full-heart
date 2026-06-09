@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-room-full-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Empty Room Full Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-room-full-heart/) |
+| **Get License** | [Get License For Empty Room Full Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-room-full-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e2ca5329210b33e72477f9cf1c978e6eeb2b5f6d4f9cfa5ccbf2c7d89ca1142a` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
